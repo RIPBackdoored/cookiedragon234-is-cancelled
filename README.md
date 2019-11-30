@@ -10,3 +10,5 @@ my leaks are very high quality and prompt to client updates, so cookie decided t
 
 ### Bottom line
 All of my cracks/leaks are clean, they will never have backdoors or coord leakers, and i encourage you all to reverse engineer my cracks for your own peace of mind. thank you, child.
+
+[MY Backdoored 1.8.2 Virus Total (0/59 detections)](https://www.virustotal.com/gui/file/a48c9c3425afc26261fb66aed757273234f0e84dd271f8dc2f7b14dcfaea7949)
