@@ -5,4 +5,4 @@ Backstory: For the past couple weeks, ive been cracking backdoored, cookie's cli
 
 my leaks are very high quality and prompt to client updates, so cookie decided the only way to prevent my leaks from going in like freethrows, he was going to frame me and attempt to cause distrust to my leaks (logical thing to do, but not ok)
 
-<img src="https://media.discordapp.net/attachments/646809312802635789/650364541787439105/unknown.png" width="350">
+<img src="https://media.discordapp.net/attachments/646809312802635789/650364541787439105/unknown.png" width="450">
