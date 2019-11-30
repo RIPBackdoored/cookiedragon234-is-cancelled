@@ -6,6 +6,10 @@ For the past couple weeks, ive been cracking backdoored, cookie's client, and he
 
 my leaks are very high quality and prompt to client updates, so cookie decided the only way to prevent my leaks from going in like freethrows, he was going to frame me and attempt to cause distrust to my leaks (logical thing to do, but not ok)
 
+### Evidence
+now i will present the ireffutable case that cookiedragon234 and only cookiedragon234 was capable of putting out this leak
+
+
 Cookie's fake impersonator gitlab: https://gitlab.com/CH1LD (Do not go here or you could get a logger)
 
 <img src="https://media.discordapp.net/attachments/646809312802635789/650364541787439105/unknown.png" width="450">
