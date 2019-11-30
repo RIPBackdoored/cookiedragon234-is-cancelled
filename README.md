@@ -7,7 +7,8 @@ For the past couple weeks, ive been cracking backdoored, cookie's client, and he
 my leaks are very high quality and prompt to client updates, so cookie decided the only way to prevent my leaks from going in like freethrows, he was going to frame me and attempt to cause distrust to my leaks (logical thing to do, but not ok)
 
 ### Evidence
-now i will present the ireffutable case that cookiedragon234 and only cookiedragon234 was capable of putting out this leak
+now i will present the ireffutable case that cookiedragon234 and only cookiedragon234 was capable of putting out this leak.
+Paramorphism 2.0 is an upcoming obfuscator to replace the existing paramorphism beta that is currently publicly available. since cookiedragon's client, backdoored, was getting cracked and source leaked, the developer of paramorphism 2.0 either lent his obfuscation services, or gave cookie early access to this private and exclusive obfuscator. the coordinates logger found in the fake backdoored 1.8.2 leak uses the same new obfuscation that cookie has been using. there is a big issue with this. the string containing the discord webhook url where the coordinates are sent was obfuscated WITH PARAMORPISM 2.0's invokedynamic string encryption. that proves definitively that only cookie or anthony was capable of releasing this infected backdoored leak, and not child.
 
 
 Cookie's fake impersonator gitlab: https://gitlab.com/CH1LD (Do not go here or you could get a logger)
