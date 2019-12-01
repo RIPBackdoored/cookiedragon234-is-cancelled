@@ -1,5 +1,7 @@
-# cookiedragon234 is cancelled
-You've gone too far
+# cookiedragon234 is NOT cancelled
+
+### Someone who was on cookie's dev team who also had access to the backdoored stuff did this
+### disregard most of this although some is still valid
 
 ### Backstory
 For the past couple weeks, ive been cracking backdoored, cookie's client, and he has not liked it. At first he tried changing his key generator, but when that didnt work, he got new obfuscation, para 2.0. But when backdoored 1.8 and 1.8.2 got cracked as well, he had too much.
